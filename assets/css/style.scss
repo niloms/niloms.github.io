@@ -1,5 +1,9 @@
 @import "{{ site.theme }}";
 
 body {
-  background-color: #eee;
+  background-color: #eee !important;
+}
+
+.wrapper {
+  background-color: red;
 }

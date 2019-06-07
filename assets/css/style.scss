@@ -3,10 +3,6 @@
 
 @import "{{ site.theme }}";
 
-body {
-  background-color: #eee !important;
-}
-
-.wrapper {
-  background-color: red;
+header {
+  background-color: blue;
 }

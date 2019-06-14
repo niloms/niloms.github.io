@@ -55,7 +55,7 @@ $on-large:         $on-laptop !default;
 
 // Import partials.
 @import
-  "../styles/base.scss",
+  "base",
   "../styles/layout",
   "../styles/syntax-highlighting"
 ;

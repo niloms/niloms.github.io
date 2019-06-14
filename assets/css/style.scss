@@ -55,9 +55,9 @@ $on-large:         $on-laptop !default;
 
 // Import partials.
 @import
-  "minima/base",
-  "minima/layout",
-  "minima/syntax-highlighting"
+  "styles/base",
+  "styles/layout",
+  "styles/syntax-highlighting"
 ;
 
 .post-header {
